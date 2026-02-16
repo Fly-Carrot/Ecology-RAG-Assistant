@@ -1,9 +1,7 @@
 ⚙️ 当前版本:Beta1
 
-
 🌿 Ecology-RAG: 生态学文献智能知识库助手
 这是一个基于 Ollama 与 LangChain 构建的本地检索增强生成（RAG）系统。本项目专门为生态学研究者设计，旨在通过 AI 助力长篇学术文献的深度阅读与知识检索。
-
 
 ✨ 核心特性
 专业学术语气：系统内置“资深生态学教授”角色，回答风格严谨、逻辑清晰，支持中英文双语对话。
@@ -30,7 +28,6 @@ RAG 框架：LangChain 0.3+ (Core, Ollama, Chroma, Text-Splitters)
 向量数据库：ChromaDB
 
 前端：原生 HTML5 / CSS3 / JavaScript (Vanilla JS)
-
 
 📅 更新日志 (Changelog) 
 
